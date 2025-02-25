@@ -20,7 +20,7 @@ body {
 }
 
 .title,
-.option-label,
+.options-label,
 .team-stats,
 footer {
     color: var(--white);
